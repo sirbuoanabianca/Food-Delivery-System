@@ -1,0 +1,29 @@
+04-06-2021 13:20:37
+Clientul/clienta cu id-ul 0 a plasat comanda cu numarul 1
+A achizitionat 3 produse in valoare TOTALA de 152
+Produsele comandate:
+[
+Title='Vanilla-Citrus Tea Ring ',
+ rating=3.75,
+ calories=375,
+ protein=4,
+ fat=21,
+ sodium=305,
+ price=49
+, 
+Title='Stuffed Cornish Hens with Port Sauce ',
+ rating=3.125,
+ calories=892,
+ protein=54,
+ fat=55,
+ sodium=283,
+ price=79
+, 
+Title='Surfer's Granola ',
+ rating=2.5,
+ calories=303,
+ protein=8,
+ fat=16,
+ sodium=157,
+ price=24
+]
